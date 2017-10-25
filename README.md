@@ -1,7 +1,7 @@
-Sangoma Vega Integration for Datadog
+Dinstar Integration for Datadog
 ===================
 
-DataDog Agent plugin for the Sangoma Vega Hardware.
+DataDog Agent plugin for the Dinstar Hardware.
 
 Prerequisites
 -----------
