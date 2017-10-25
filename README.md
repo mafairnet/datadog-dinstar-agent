@@ -38,10 +38,10 @@ Insert the IP, Name, User and Password for the Vega.
 ```
 init_config:
 	instances:
-		- host: 0.0.0.0         #vega adress
-          name: vega_name       #vega name
-          user: user            #vega user
-          secret: pass          #vega user pass
+		- host: 0.0.0.0         #dinstar adress
+          name: dinstar_name       #dinstar name
+          user: user            #dinstar user
+          secret: pass          #dinstar user pass
 ```
 
 Restart  the datadog service.
