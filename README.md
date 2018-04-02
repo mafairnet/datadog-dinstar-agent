@@ -5,7 +5,7 @@ DataDog Agent plugin for the Dinstar Hardware.
 
 Prerequisites
 -----------
-- Datadog
+- DataDog Agent v5 (1.5)
 
 Installation
 -----------
